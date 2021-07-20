@@ -19,3 +19,18 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renzhifan&theme=dark&layout=compact)
 
+:bowtie:	bowtie
+:neckbeard:	neckbeard
+:octocat:	octocat
+:shipit:	shipit
+:trollface:	trollface
+:suspect:	 suspect
+:hurtrealbad:	hurtrealbad
+:feelsgood:	feelsgood
+:goberserk:	 goberserk
+:finnadie:	finnadie
+:rage1:	rage1
+:rage2:	rage2
+:rage3:	rage3
+:rage4:	rage4
+:godmode:	godmode
